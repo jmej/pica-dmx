@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 26.0, 85.0, 1298.0, 617.0 ],
+		"rect" : [ 36.0, 86.0, 1294.0, 606.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -536,7 +536,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 564.0, 66.0, 20.0, 140.0 ],
+					"patching_rect" : [ 557.0, 40.0, 20.0, 140.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 665.0, 43.0, 20.0, 140.0 ]
 				}
@@ -551,7 +551,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 542.0, 66.0, 20.0, 140.0 ],
+					"patching_rect" : [ 535.0, 40.0, 20.0, 140.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 643.0, 43.0, 20.0, 140.0 ]
 				}
@@ -566,7 +566,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 520.0, 66.0, 20.0, 140.0 ],
+					"patching_rect" : [ 513.0, 40.0, 20.0, 140.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 621.0, 43.0, 20.0, 140.0 ]
 				}
@@ -581,7 +581,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 498.0, 66.0, 20.0, 140.0 ],
+					"patching_rect" : [ 491.0, 40.0, 20.0, 140.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 599.0, 43.0, 20.0, 140.0 ]
 				}
@@ -594,7 +594,7 @@
 					"numinlets" : 7,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "int" ],
-					"patching_rect" : [ 498.0, 210.0, 82.0, 22.0 ],
+					"patching_rect" : [ 491.0, 217.831329345703125, 82.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 599.0, 187.0, 82.0, 22.0 ],
 					"text" : "par 357"
@@ -742,7 +742,7 @@
 					"numinlets" : 7,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "int" ],
-					"patching_rect" : [ 433.0, 541.0, 86.0, 22.0 ],
+					"patching_rect" : [ 433.0, 566.9755859375, 82.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 418.0, 584.0, 86.0, 22.0 ],
 					"text" : "par 101"
@@ -793,7 +793,7 @@
 					"numinlets" : 7,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "int" ],
-					"patching_rect" : [ 900.25, 370.0, 82.0, 22.0 ],
+					"patching_rect" : [ 1165.0, 405.0, 82.0, 22.0 ],
 					"text" : "par 381"
 				}
 
@@ -1518,7 +1518,7 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "par.maxpat",
-				"bootpath" : "~/Desktop/PICA-LIGHTS",
+				"bootpath" : "~/Documents/pica-dmx",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
@@ -1532,9 +1532,6 @@
 				"boxes" : [ "obj-27", "obj-20", "obj-21", "obj-22", "obj-23" ]
 			}
 , 			{
-				"boxes" : [ "obj-14", "obj-44", "obj-43", "obj-42", "obj-41" ]
-			}
-, 			{
 				"boxes" : [ "obj-52", "obj-51", "obj-50", "obj-46", "obj-45" ]
 			}
 , 			{
@@ -1545,6 +1542,9 @@
 			}
 , 			{
 				"boxes" : [ "obj-67", "obj-66", "obj-65", "obj-64", "obj-63" ]
+			}
+, 			{
+				"boxes" : [ "obj-14", "obj-44", "obj-43", "obj-42", "obj-41" ]
 			}
 , 			{
 				"boxes" : [ "obj-72", "obj-71", "obj-70", "obj-69", "obj-68" ]
